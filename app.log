@@ -1,0 +1,23 @@
+2020-02-13 09:59:11,502 - basicLogger - INFO - Adding ScanRecord
+2020-02-13 09:59:48,291 - basicLogger - INFO - Adding ScanRecord
+2020-02-13 09:59:48,291 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-02-13T09:59:48', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-02-27 00:30:45,891 - basicLogger - INFO - Adding ScanRecord
+2020-02-27 00:30:45,891 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-02-27T00:30:45', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-02-27 00:46:32,671 - basicLogger - INFO - Adding BodyInfoRecord
+2020-02-27 00:46:32,671 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-02-27T00:46:32', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 80}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-02-27 00:46:45,952 - basicLogger - INFO - Adding BodyInfoRecord
+2020-02-27 00:46:45,952 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-02-27T00:46:45', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 80}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 13:52:56,095 - basicLogger - INFO - Adding BodyInfoRecord
+2020-04-01 13:52:56,095 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-01T13:52:56', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 80}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 13:53:27,606 - basicLogger - INFO - Adding BodyInfoRecord
+2020-04-01 13:53:27,606 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-01T13:53:27', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 80}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 14:10:28,742 - basicLogger - INFO - Adding ScanRecord
+2020-04-01 14:10:28,742 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-01T14:10:28', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 14:10:57,579 - basicLogger - INFO - Adding BodyInfoRecord
+2020-04-01 14:10:57,579 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-01T14:10:57', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 60}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 14:12:34,207 - basicLogger - INFO - Adding ScanRecord
+2020-04-01 14:12:34,207 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-01T14:12:34', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 14:23:21,848 - basicLogger - INFO - Adding ScanRecord
+2020-04-01 14:23:21,848 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-01T14:23:21', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-01 14:40:19,625 - basicLogger - INFO - Adding ScanRecord
+2020-04-01 14:40:19,626 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-01T14:40:19', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
