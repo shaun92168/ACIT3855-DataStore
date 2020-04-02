@@ -4,6 +4,8 @@
     <list default="true" id="f84a172e-9879-4f3f-891c-b71b2d2d4a34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_conf.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app_conf.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_tables_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_tables_mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +105,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="create_tables_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acit3855lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_tables_mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.app" />
       <item itemvalue="Python.create_database" />
+      <item itemvalue="Python.create_tables_mysql" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.create_tables_mysql" />
         <item itemvalue="Python.create_database" />
       </list>
     </recent_temporary>
@@ -142,44 +167,44 @@
     </state>
     <state x="655" y="183" key="FileChooserDialogImpl/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1581561849207" />
     <state x="655" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582769112331" />
-    <state width="2027" height="179" key="GridCell.Tab.0.bottom" timestamp="1585760586715">
+    <state width="2027" height="179" key="GridCell.Tab.0.bottom" timestamp="1585805968604">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="1580" height="243" key="GridCell.Tab.0.bottom/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1582792224564" />
     <state width="1256" height="353" key="GridCell.Tab.0.bottom/0.0.1600.860/3200.0.2560.1040@3200.0.2560.1040" timestamp="1581568996691" />
     <state width="1580" height="243" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582909634889" />
-    <state width="2027" height="179" key="GridCell.Tab.0.bottom/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585760586715" />
+    <state width="2027" height="179" key="GridCell.Tab.0.bottom/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585805968604" />
     <state width="1899" height="89" key="GridCell.Tab.0.bottom/0.0.2048.1152/2048.0.1920.1080@2048.0.1920.1080" timestamp="1585725796265" />
-    <state width="2027" height="179" key="GridCell.Tab.0.center" timestamp="1585760586715">
+    <state width="2027" height="179" key="GridCell.Tab.0.center" timestamp="1585805968604">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="1580" height="243" key="GridCell.Tab.0.center/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1582792224564" />
     <state width="1256" height="353" key="GridCell.Tab.0.center/0.0.1600.860/3200.0.2560.1040@3200.0.2560.1040" timestamp="1581568996691" />
     <state width="1580" height="243" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582909634889" />
-    <state width="2027" height="179" key="GridCell.Tab.0.center/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585760586715" />
+    <state width="2027" height="179" key="GridCell.Tab.0.center/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585805968604" />
     <state width="1899" height="89" key="GridCell.Tab.0.center/0.0.2048.1152/2048.0.1920.1080@2048.0.1920.1080" timestamp="1585725796265" />
-    <state width="2027" height="179" key="GridCell.Tab.0.left" timestamp="1585760586714">
+    <state width="2027" height="179" key="GridCell.Tab.0.left" timestamp="1585805968604">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="1580" height="243" key="GridCell.Tab.0.left/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1582792224564" />
     <state width="1256" height="353" key="GridCell.Tab.0.left/0.0.1600.860/3200.0.2560.1040@3200.0.2560.1040" timestamp="1581568996691" />
     <state width="1580" height="243" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582909634888" />
-    <state width="2027" height="179" key="GridCell.Tab.0.left/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585760586714" />
+    <state width="2027" height="179" key="GridCell.Tab.0.left/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585805968604" />
     <state width="1899" height="89" key="GridCell.Tab.0.left/0.0.2048.1152/2048.0.1920.1080@2048.0.1920.1080" timestamp="1585725796265" />
-    <state width="2027" height="179" key="GridCell.Tab.0.right" timestamp="1585760586715">
+    <state width="2027" height="179" key="GridCell.Tab.0.right" timestamp="1585805968604">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="1580" height="243" key="GridCell.Tab.0.right/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1582792224564" />
     <state width="1256" height="353" key="GridCell.Tab.0.right/0.0.1600.860/3200.0.2560.1040@3200.0.2560.1040" timestamp="1581568996691" />
     <state width="1580" height="243" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582909634889" />
-    <state width="2027" height="179" key="GridCell.Tab.0.right/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585760586715" />
+    <state width="2027" height="179" key="GridCell.Tab.0.right/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585805968604" />
     <state width="1899" height="89" key="GridCell.Tab.0.right/0.0.2048.1152/2048.0.1920.1080@2048.0.1920.1080" timestamp="1585725796265" />
-    <state x="978" y="158" key="SettingsEditor" timestamp="1585727915386">
+    <state x="978" y="158" key="SettingsEditor" timestamp="1585803431205">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="304" y="76" key="SettingsEditor/0.0.1600.860/3200.0.2560.1040@0.0.1600.860" timestamp="1582791315148" />
     <state x="304" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581613895691" />
-    <state x="978" y="158" key="SettingsEditor/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585727915386" />
+    <state x="978" y="158" key="SettingsEditor/0.0.2048.1152/2048.0.1920.1080@0.0.2048.1152" timestamp="1585803431205" />
     <state x="2809" y="191" key="SettingsEditor/0.0.2048.1152/2048.0.1920.1080@2048.0.1920.1080" timestamp="1585724336489" />
     <state x="661" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1582768799623">
       <screen x="0" y="0" width="1600" height="860" />

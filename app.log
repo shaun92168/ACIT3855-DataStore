@@ -1625,3 +1625,17 @@
 2020-04-02 00:29:56,038 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T00:29:56', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
 2020-04-02 00:30:17,259 - basicLogger - INFO - Adding BodyInfoRecord
 2020-04-02 00:30:17,259 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-02T00:30:17', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 60}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:00:20,170 - basicLogger - INFO - Adding ScanRecord
+2020-04-02 13:00:20,171 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T13:00:19', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:02:12,230 - basicLogger - INFO - Adding ScanRecord
+2020-04-02 13:02:12,230 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T13:02:11', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:02:31,489 - basicLogger - INFO - Adding ScanRecord
+2020-04-02 13:02:31,489 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T13:02:31', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:02:41,694 - basicLogger - INFO - Adding BodyInfoRecord
+2020-04-02 13:02:41,694 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-02T13:02:41', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 60}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:05:49,018 - basicLogger - INFO - Adding ScanRecord
+2020-04-02 13:05:49,019 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T13:05:48', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:06:00,674 - basicLogger - INFO - Adding ScanRecord
+2020-04-02 13:06:00,674 - basicLogger - DEBUG - {'type': 'ScanRecord', 'datetime': '2020-04-02T13:06:00', 'payload': {'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
+2020-04-02 13:06:10,345 - basicLogger - INFO - Adding BodyInfoRecord
+2020-04-02 13:06:10,346 - basicLogger - DEBUG - {'type': 'BodyInfoUpdate', 'datetime': '2020-04-02T13:06:10', 'payload': {'body_info': {'body_fat': 10, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight': 60}, 'member_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'store_id': 'A12345', 'timestamp': '2016-08-29T09:12:33.001000+00:00'}}
